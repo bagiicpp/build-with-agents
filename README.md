@@ -9,7 +9,7 @@ An orchestrator scopes the task, creates a dedicated branch, delegates cohesive 
 Install from this GitHub repository with the [skills CLI](https://skills.sh/):
 
 ```sh
-npx skills add bagiicpp/build-with-agents --skill build-with-agents
+npx skills add bagiicpp/build-with-agents
 ```
 
 Follow the CLI prompts to select your agent and installation scope. The CLI requires Node.js/npm; the skill itself has no runtime dependencies.
